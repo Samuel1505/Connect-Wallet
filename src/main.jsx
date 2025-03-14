@@ -1,6 +1,6 @@
 import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
-import './index.css'
+import './WalletConnect.css'
 import App from './App.jsx'
 import { config } from './config/wagmi.config.js'
 import { WagmiProvider } from 'wagmi'
